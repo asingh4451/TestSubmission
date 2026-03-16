@@ -1,0 +1,12 @@
+services:
+  ppt-builder:
+    build: .
+    container_name: ai-ppt-builder
+    restart: unless-stopped
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./templates:/app/templates
+      - ./output:/app/output
+    stdin_open: true
+    tty: true

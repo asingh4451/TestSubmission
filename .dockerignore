@@ -1,0 +1,11 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+venv
+.env
+output
+input
+node_modules
+.DS_Store
+.streamlit
