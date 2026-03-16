@@ -1,0 +1,395 @@
+{
+    "metadata": {
+        "title": "sample_input.pptx",
+        "slide_count": 1
+    },
+    "slides": [
+        {
+            "slide_index": 1,
+            "layout_name": "Default",
+            "elements": [
+                {
+                    "name": "Text Placeholder 5",
+                    "type": "PLACEHOLDER (14)",
+                    "left": 43.67992125984252,
+                    "top": 3.2753543307086614,
+                    "width": 302.62503937007875,
+                    "height": 9.693779527559055,
+                    "text_content": [
+                        {
+                            "text": "",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Title 19",
+                    "type": "PLACEHOLDER (14)",
+                    "left": 43.68,
+                    "top": 40.86700787401575,
+                    "width": 872.64,
+                    "height": 30.292992125984252,
+                    "text_content": [
+                        {
+                            "text": "2 row 5 column",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "c1",
+                    "type": "TEXT_BOX (17)",
+                    "left": 161.40779527559056,
+                    "top": 133.88535433070865,
+                    "width": 139.37094488188976,
+                    "height": 26.65779527559055,
+                    "text_content": [
+                        {
+                            "text": "Partnership",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "c2",
+                    "type": "TEXT_BOX (17)",
+                    "left": 314.4887401574803,
+                    "top": 133.88535433070865,
+                    "width": 139.37086614173228,
+                    "height": 26.65779527559055,
+                    "text_content": [
+                        {
+                            "text": "Plan",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "c3",
+                    "type": "TEXT_BOX (17)",
+                    "left": 467.5696850393701,
+                    "top": 133.88535433070865,
+                    "width": 139.37094488188976,
+                    "height": 26.65779527559055,
+                    "text_content": [
+                        {
+                            "text": "Team",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "c4",
+                    "type": "TEXT_BOX (17)",
+                    "left": 620.6510236220472,
+                    "top": 133.88535433070865,
+                    "width": 139.3707874015748,
+                    "height": 26.65779527559055,
+                    "text_content": [
+                        {
+                            "text": "Target",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "r1",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 43.68,
+                    "top": 204.85055118110236,
+                    "width": 111.42858267716535,
+                    "height": 41.14283464566929,
+                    "text_content": [
+                        {
+                            "text": "Point 1",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "r2",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 43.68,
+                    "top": 327.4737007874016,
+                    "width": 111.42858267716535,
+                    "height": 41.14283464566929,
+                    "text_content": [
+                        {
+                            "text": "Point 2",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "s2",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 314.4887401574803,
+                    "top": 198.2968503937008,
+                    "width": 139.37086614173228,
+                    "height": 98.69307086614174,
+                    "text_content": [
+                        {
+                            "text": "method worked out in advance for achieving some objective tshere \u000bis a contingency",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "s3",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 467.56976377952753,
+                    "top": 198.2968503937008,
+                    "width": 139.37086614173228,
+                    "height": 98.69307086614174,
+                    "text_content": [
+                        {
+                            "text": "Microsoft Teams is a \u000bhub for teamwork in Microsoft 365 for Education.",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "s4",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 620.6509448818898,
+                    "top": 198.2968503937008,
+                    "width": 139.3707874015748,
+                    "height": 55.0711811023622,
+                    "text_content": [
+                        {
+                            "text": "Get top deals, latest trends, and more",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "s5",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 773.7317322834646,
+                    "top": 198.2968503937008,
+                    "width": 139.37086614173228,
+                    "height": 120.50401574803149,
+                    "text_content": [
+                        {
+                            "text": "Ownership grants the owner specific legal rights over the property, including \u000bthe right to use it, ",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "s1",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 161.40771653543308,
+                    "top": 198.2968503937008,
+                    "width": 139.37094488188976,
+                    "height": 98.69307086614174,
+                    "text_content": [
+                        {
+                            "text": "A partnership is a formal arrangement by two or more parties to manage and operate",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "t2",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 314.4887401574803,
+                    "top": 365.801968503937,
+                    "width": 139.37086614173228,
+                    "height": 76.88212598425197,
+                    "text_content": [
+                        {
+                            "text": "\u00a0plan\u00a0in the office for handling almost any emergency",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "t3",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 467.56976377952753,
+                    "top": 365.801968503937,
+                    "width": 139.37086614173228,
+                    "height": 98.69307086614174,
+                    "text_content": [
+                        {
+                            "text": "Keep all your content, apps, and conversations together in one place",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "t4",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 620.6509448818898,
+                    "top": 365.801968503937,
+                    "width": 139.3707874015748,
+                    "height": 98.69307086614174,
+                    "text_content": [
+                        {
+                            "text": "unlimited PDFs, daily targets, and practice questions for various bank exams. ",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "t5",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 773.7317322834646,
+                    "top": 365.801968503937,
+                    "width": 139.37086614173228,
+                    "height": 76.88212598425197,
+                    "text_content": [
+                        {
+                            "text": "Each type comes with its own set of rules and implications.",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "t1",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 161.40771653543308,
+                    "top": 365.801968503937,
+                    "width": 139.37094488188976,
+                    "height": 76.88212598425197,
+                    "text_content": [
+                        {
+                            "text": "There are several types of partnership arrangements. ",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "C5",
+                    "type": "AUTO_SHAPE (1)",
+                    "left": 773.7318110236221,
+                    "top": 133.88535433070865,
+                    "width": 139.37094488188976,
+                    "height": 26.65779527559055,
+                    "text_content": [
+                        {
+                            "text": "Ownership",
+                            "level": 0,
+                            "style": {
+                                "font_name": null,
+                                "font_size": null,
+                                "bold": null,
+                                "italic": null
+                            }
+                        }
+                    ]
+                }
+            ],
+            "title": "2 row 5 column"
+        }
+    ]
+}

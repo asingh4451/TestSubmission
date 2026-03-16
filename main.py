@@ -4,7 +4,6 @@ from src.extractor import extract_content
 from src.analyzer import analyze_template
 from src.selector import select_best_template
 from src.generator import generate_presentation
-
 def main():
     input_pptx = "input/sample_input.pptx"
     templates_dir = "templates"
